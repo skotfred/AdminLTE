@@ -1,4 +1,4 @@
-<html><body>
+<!DOCTYPE html><html lang="en"><body>
 <?php
 require "auth.php";
 require "password.php";
